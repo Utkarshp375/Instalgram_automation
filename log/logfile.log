@@ -1,0 +1,14 @@
+04/04/2024 03:51:56 PM: INFO: Test_login instagram: test_login: Test case start
+04/04/2024 03:52:00 PM: INFO: Test_login instagram: test_login: Enter User name Sucessfully
+04/04/2024 03:52:03 PM: INFO: Test_login instagram: test_login: Enter password sucessfully
+04/04/2024 03:52:04 PM: INFO: Test_login instagram: test_login: Login SucessFully
+04/04/2024 03:52:09 PM: INFO: Test_login instagram: test_login: notification remove
+04/04/2024 03:52:14 PM: INFO: Test_login instagram: test_login: click the message
+04/04/2024 03:52:17 PM: INFO: Test_login instagram: test_login: click the send message button
+04/04/2024 03:52:20 PM: INFO: Test_login instagram: test_login: search the username
+04/04/2024 03:52:25 PM: INFO: Test_login instagram: test_login: click the username
+04/04/2024 03:52:30 PM: INFO: Test_login instagram: test_login: click the chat button
+04/04/2024 03:52:36 PM: INFO: Test_login instagram: test_login: write message sucessfully
+04/04/2024 03:52:41 PM: INFO: Test_login instagram: test_login: send message sucessfully
+04/04/2024 03:52:51 PM: INFO: Test_login instagram: test_login: click seatting sucessfully
+04/04/2024 03:52:56 PM: INFO: Test_login instagram: test_login: logout sucessfully
